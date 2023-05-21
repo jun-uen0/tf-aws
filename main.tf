@@ -1,5 +1,7 @@
 # Deploying EC2 instance from local machine
 # Ref: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build
+# Terraform version: 1.4.6
+# AWS CLI version: 2.11.7
 
 terraform {
   required_providers {
